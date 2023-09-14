@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Shopping-Card/static/css/main.5eab5ea9.css",
+    "main.js": "/Shopping-Card/static/js/main.4c5a593e.js",
+    "static/js/787.7650793b.chunk.js": "/Shopping-Card/static/js/787.7650793b.chunk.js",
+    "static/media/ShoesPink.png": "/Shopping-Card/static/media/ShoesPink.eb43a6bf4c6ac7b832b3.png",
+    "index.html": "/Shopping-Card/index.html",
+    "main.5eab5ea9.css.map": "/Shopping-Card/static/css/main.5eab5ea9.css.map",
+    "main.4c5a593e.js.map": "/Shopping-Card/static/js/main.4c5a593e.js.map",
+    "787.7650793b.chunk.js.map": "/Shopping-Card/static/js/787.7650793b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5eab5ea9.css",
+    "static/js/main.4c5a593e.js"
+  ]
+}
